@@ -9,3 +9,6 @@ plugins:
   theoreticalbot_categories:
     type: category_list
     default: ''
+  theoreticalbot_send_first_post_replies:
+    default: false
+    client: true

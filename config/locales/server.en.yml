@@ -3,4 +3,6 @@ en:
     theoreticalbot_enabled: 'Bring the Theoretical Bot to life?'
     theoreticalbot_username: 'What user should be used for the bot?'
     theoreticalbot_categories: 'To which categories should the bot reply?'
-  theoreticalbot_responses: ''
+    theoreticalbot_send_first_post_replies: 'Should the bot reply to the first public post of users?'
+  theoreticalbot_responses: 'You need to configure response with pipe delimited strings for the text content of "theoreticalbot_responses".|You need to get things up and running!'
+  theoreticalbot_first_post_responses: 'You need to configure your repsonse to first posts in settings. These are pipe delimited.|Come on now. Get your settings configured correctly.'
