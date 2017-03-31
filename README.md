@@ -1,0 +1,1 @@
+This enables the theoreticalbot account running on Allies at [https://allies.theoreticalaccountability.fm](https://allies.theoreticalaccountability.fm).

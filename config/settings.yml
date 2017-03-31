@@ -1,0 +1,11 @@
+plugins:
+  theoreticalbot_enabled:
+    default: true
+    client: true
+  theoreticalbot_username:
+    type: username
+    default: ''
+    client: true
+  theoreticalbot_categories:
+    type: category_list
+    default: ''

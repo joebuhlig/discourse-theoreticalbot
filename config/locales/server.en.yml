@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    theoreticalbot_enabled: 'Bring the Theoretical Bot to life?'
+    theoreticalbot_username: 'What user should be used for the bot?'
+    theoreticalbot_categories: 'To which categories should the bot reply?'
+  theoreticalbot_responses: ''
