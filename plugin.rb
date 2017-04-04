@@ -6,8 +6,6 @@
 
 enabled_site_setting :theoreticalbot_enabled
 
-add_admin_route 'theoreticalbot.title', 'theoreticalbot'
-
 register_asset "stylesheets/theoreticalbot.scss"
 
 Discourse::Application.routes.append do
